@@ -1,0 +1,11 @@
+fruits=[]
+fruits1=['grapes','orange']
+fruits2=['ripe']
+fruits.append("mango")
+print(fruits)
+fruits.append(fruits1)
+print(fruits)
+fruits.extend(fruits2)
+print(fruits)
+fruits.insert(1,'peel')
+print(fruits)
