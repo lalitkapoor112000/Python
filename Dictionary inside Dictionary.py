@@ -1,0 +1,10 @@
+users=dict(
+    Lalit=dict(age=19),
+    rishabh=dict(age=18)
+    )
+print(users)
+sers={
+    Lalit:{'age':19},
+    rishabh:{'age':18}
+    }
+print(sers)
